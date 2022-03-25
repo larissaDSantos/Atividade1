@@ -1,0 +1,28 @@
+.elementoA{
+    background-color:#ff1787 ; 
+    width: 500px; 
+    height: 500px;
+}
+.elementoB{
+    background-color: #17e8ff;
+    width: 250px;
+     height: 250px;
+}
+p{
+    background-color: #7417ff;
+     color: #ffff; 
+     font-size: 25px; 
+    font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+}
+.elementoD{
+    width: 397px;
+    height: 250px; 
+    background-color: rgb(255, 176, 103); 
+        height:50vh;
+}
+.elementoE{
+    width: 75vw;
+     height: 250px; 
+    background-color: rgb(68, 255, 21);
+}
